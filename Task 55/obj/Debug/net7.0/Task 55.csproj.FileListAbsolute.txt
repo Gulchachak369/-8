@@ -1,0 +1,15 @@
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар8\Task 55\bin\Debug\net7.0\Task 55.exe
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар8\Task 55\bin\Debug\net7.0\Task 55.deps.json
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар8\Task 55\bin\Debug\net7.0\Task 55.runtimeconfig.json
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар8\Task 55\bin\Debug\net7.0\Task 55.dll
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар8\Task 55\bin\Debug\net7.0\Task 55.pdb
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар8\Task 55\obj\Debug\net7.0\Task 55.csproj.AssemblyReference.cache
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар8\Task 55\obj\Debug\net7.0\Task 55.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар8\Task 55\obj\Debug\net7.0\Task 55.AssemblyInfoInputs.cache
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар8\Task 55\obj\Debug\net7.0\Task 55.AssemblyInfo.cs
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар8\Task 55\obj\Debug\net7.0\Task 55.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар8\Task 55\obj\Debug\net7.0\Task 55.dll
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар8\Task 55\obj\Debug\net7.0\refint\Task 55.dll
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар8\Task 55\obj\Debug\net7.0\Task 55.pdb
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар8\Task 55\obj\Debug\net7.0\Task 55.genruntimeconfig.cache
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар8\Task 55\obj\Debug\net7.0\ref\Task 55.dll
